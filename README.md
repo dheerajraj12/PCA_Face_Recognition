@@ -1,1 +1,1 @@
-# PCA_Face_Recognition
+Used Principal Component Analysis(A Dimensionality Reduction technique in Machine Learning) with Eigenvectors for Face Recognition.
